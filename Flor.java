@@ -11,7 +11,7 @@ public class Flor extends JPanel {
     g.fillOval(50, 100, 100, 100); // petalo izquierdo
     g.fillOval(150, 100, 100, 100); // petalo derecho
     g.fillOval(100, 150, 100, 100); // petalo inferior
-    g.setColor(Color.ORANGE);
+    g.setColor(Color.RED);
     g.fillOval(110, 110, 80, 80); // centro
     }
     public static void main(String[] args) {
@@ -21,5 +21,5 @@ public class Flor extends JPanel {
     frame.add(new Flor());
     frame.setVisible(true);
     }
-    
+
 }
