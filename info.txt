@@ -1,0 +1,1 @@
+En este ejercicio aprendí a crear ramas para organizar mi trabajo y usar Pull Requests para integrar cambios.
